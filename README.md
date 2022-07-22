@@ -1,2 +1,2 @@
 # LinkedIn-clone
- Clone the Lined in News Feed
+ Clone the LinkedIn News Feed using pure html and css
